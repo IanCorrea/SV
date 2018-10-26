@@ -1,0 +1,85 @@
+﻿@model IEnumerable<ProjetoDDD.MVC.ViewModels.VendaViewModel>
+
+@{
+    ViewBag.Title = "Sistema de Vendas - Vendas";
+}
+
+<a href="#myModal" class="btnCreate" data-toggle="modal"><img src="~/img/button/new.svg" class="icon" /></a>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Pedido)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ValorTotal)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ClienteId)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ColaboradorId)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Pedido)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ValorTotal)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Cliente.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Colaborador.Nome)
+                    </td>
+                    <td class="action-buttons">
+                        <a href="#myModal" class="btnDetails" data-toggle="modal" data-id="@item.VendaId"><img src="~/img/button/details.svg" class="icon" /></a>|
+                        <a href="#myModal" class="btnEdit" data-toggle="modal" data-id="@item.VendaId"><img src="~/img/button/edit.svg" class="icon" /></a>|
+                        <a href="#myModal" class="btnDelete" data-toggle="modal" data-id="@item.VendaId"><img src="~/img/button/delete.svg" class="icon" /></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="modal-content">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $('.btnCreate').click(function (eve) {
+            $('#modal-content').load('/Venda/Create');
+        })
+
+        $('.btnDetails').click(function (eve) {
+            $('#modal-content').load('/Venda/Details/' + $(this).data('id'));
+        })
+
+        $('.btnEdit').click(function (eve) {
+            $('#modal-content').load('/Venda/Edit/' + $(this).data('id'));
+        })
+
+        $('.btnDelete').click(function (eve) {
+            $('#modal-content').load('/Venda/Delete/' + $(this).data('id'));
+        })
+    </script>
+}

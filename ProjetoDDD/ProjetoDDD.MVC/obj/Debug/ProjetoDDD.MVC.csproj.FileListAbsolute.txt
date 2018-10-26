@@ -1,0 +1,1158 @@
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Charts.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.CodeParser.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxThemes.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.Mvc5.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.Resources.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.GenerateResource.Cache
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll.licenses
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\XtraReportVendas.resources
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\bin\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\XtraReportVendas.resources
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.GenerateResource.Cache
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll.licenses
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Charts.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.CodeParser.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxThemes.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.Mvc5.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.Resources.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReportVendas.resources
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.GenerateResource.Cache
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll.licenses
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReport_Vendas.resources
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Charts.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.CodeParser.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxThemes.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.Mvc5.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.Resources.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReportVendas.resources
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReport_Vendas.resources
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.GenerateResource.Cache
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll.licenses
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ApplicationInsights.config
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\csc.exe
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\vbc.exe
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll.config
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.MVC.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\WebActivatorEx.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\WebGrease.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Application.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Domain.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.CrossCutting.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\AutoMapper.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Data.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.DataAccess.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Office.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Pdf.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.PivotGrid.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Printing.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.RichEdit.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Sparkline.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Utils.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Xpo.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraGauges.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraReports.v17.1.Web.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.Web.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Common.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Helpers.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Mvc.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Optimization.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.Razor.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Antlr3.Runtime.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\Newtonsoft.Json.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ProjetoDDD.Infra.Data.dll.config
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraCharts.v17.1.Web.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxHtmlEditor.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxPivotGrid.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxRichEdit.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxScheduler.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.XtraScheduler.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpellChecker.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxSpreadsheet.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Web.ASPxTreeList.v17.1.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.SpellChecker.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\DevExpress.Spreadsheet.v17.1.Core.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\EntityFramework.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Data.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Data.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Data.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Data.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.DataAccess.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Office.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Printing.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Utils.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Xpo.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraCharts.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraReports.v17.1.Web.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxHtmlEditor.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxRichEdit.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxScheduler.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.XtraScheduler.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpellChecker.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxSpreadsheet.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Web.ASPxTreeList.v17.1.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\de\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\es\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ja\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\bin\ru\DevExpress.Spreadsheet.v17.1.Core.resources.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csprojAssemblyReference.cache
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReportVendas.resources
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\XtraReport_Vendas.resources
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.GenerateResource.cache
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll.licenses
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.CoreCompileInputs.cache
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.csproj.CopyComplete
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.MVC\obj\Debug\ProjetoDDD.MVC.pdb

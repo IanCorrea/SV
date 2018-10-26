@@ -1,0 +1,88 @@
+﻿@model IEnumerable<ProjetoDDD.MVC.ViewModels.ColaboradorViewModel>
+
+@{
+    ViewBag.Title = "Sistema de Vendas - Colaboradores";
+}
+
+<a href="#myModal" class="btnCreate" data-toggle="modal"><img src="~/img/button/new.svg" class="icon" /></a>
+
+<div class="table-responsive">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Idade)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Apelido)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Sexo)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Idade)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Apelido)
+                    </td>
+                    <td>
+                        @if (item.Sexo == "M")
+                        { @Html.Encode("Masculino") }
+                        @if (item.Sexo == "F")
+                        { @Html.Encode("Feminino") }
+                    </td>
+                    <td class="action-buttons">
+                        <a href="#myModal" class="btnDetails" data-toggle="modal" data-id="@item.ColaboradorId"><img src="~/img/button/details.svg" class="icon" /></a>|
+                        <a href="#myModal" class="btnEdit" data-toggle="modal" data-id="@item.ColaboradorId"><img src="~/img/button/edit.svg" class="icon" /></a>|
+                        <a href="#myModal" class="btnDelete" data-toggle="modal" data-id="@item.ColaboradorId"><img src="~/img/button/delete.svg" class="icon" /></a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+<div id="myModal" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <div id="modal-content">
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts{
+    <script>
+        $('.btnCreate').click(function (eve) {
+            $('#modal-content').load('/Colaborador/Create');
+        })
+
+        $('.btnDetails').click(function (eve) {
+            $('#modal-content').load('/Colaborador/Details/' + $(this).data('id'));
+        })
+
+        $('.btnEdit').click(function (eve) {
+            $('#modal-content').load('/Colaborador/Edit/' + $(this).data('id'));
+        })
+
+        $('.btnDelete').click(function (eve) {
+            $('#modal-content').load('/Colaborador/Delete/' + $(this).data('id'));
+        })
+    </script>
+}

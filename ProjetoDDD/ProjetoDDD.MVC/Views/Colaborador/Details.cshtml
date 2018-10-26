@@ -1,0 +1,53 @@
+﻿@model ProjetoDDD.MVC.ViewModels.ColaboradorViewModel
+
+@{
+    ViewBag.Title = "Sistema de Vendas - Detalhes do Colaborador";
+    Layout = null;
+}
+
+<h2>Detalhes do Colaborador</h2>
+
+<div>
+    <h4>Informações</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apelido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apelido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+
+        <dd>
+            @if (@ViewBag.Sexo == "M")
+            { @Html.Encode("Masculino") }
+            @if (@ViewBag.Sexo == "F")
+            { @Html.Encode("Feminino") }
+        </dd>
+
+    </dl>
+</div>
+<div class="buttons-modal">
+    <a href="#myModal" data-dismiss="modal"><img src="~/img/button/back.svg" class="icon" /></a>
+</div>

@@ -1,0 +1,9 @@
+﻿@{
+    ViewBag.Title = "Sistema de Vendas - Relatório";
+}
+
+@Html.DevExpress().WebDocumentViewer(settings =>
+{
+    settings.Name = "WebDocumentViewer";
+    settings.MobileMode = true;
+}).Bind(new XtraReport_Vendas()).GetHtml()

@@ -1,0 +1,62 @@
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Documents\ProjetoDDD\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\ProjetoDDD - Copia\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\DraZZ\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll.config
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Infra.Data.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\ProjetoDDD.Domain.pdb
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.csproj.CopyComplete
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.dll
+C:\Users\ian.correa\Desktop\SV\ProjetoDDD\ProjetoDDD.Infra.Data\obj\Debug\ProjetoDDD.Infra.Data.pdb

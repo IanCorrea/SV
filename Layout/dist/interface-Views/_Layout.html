@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8" />
+    <!--<title>Sistema de Vendas</title>-->
+    <title>@ViewBag.Title</title>
+    @@include('../interface-Templates/_Layout-Head.html')
+    <link rel="shortcut icon" type="image/png" href="img/icon/favicon.png" />
+    <link rel="stylesheet" href="~/Content/index.min.css"/>
+</head>
+
+<body>
+    <div id="interface">
+        <header id="header">
+            <nav id="nav-default" class="navbar navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="row">
+                        <section class="items-nav-default">
+                            <a href="/Home" class="home">
+                                <img src="~/img/btn-home.svg" alt="home" class="home">
+                                <img src="~/img/logo.png" alt="logo" class="logo">
+                            </a>
+                            <hgroup id="title">
+                                <h1>Sistema de Vendas</h1>
+                                <h2>online</h2>
+                            </hgroup>
+                        </section>
+                    </div>
+                    <div class="row">
+                        <figure class="images-ms">                            
+                            <div class="background">
+                                <div class="items-background">
+                                    <a href="/Clientes" class="customer"><img src="~/img/nav-scroll/customer-navscroll-c.svg" class="customer-c"></a>
+                                    <a href="/Colaborador" class="provider"><img src="~/img/nav-scroll/provider-navscroll-c.svg" class="provider-c"></a>
+                                    <a href="/Venda" class="sales"><img src="~/img/nav-scroll/sales-navscroll-c.svg" class="sales-c"></a>
+                                    <a href="/Venda/Report" class="report"><img src="~/img/nav-scroll/report-navscroll-c.svg" class="report-c"></a>
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+            </nav>
+        </header><!-- header -->
+        <nav class="nav-buttons">            
+            <div class="container">
+                <div class="row">                
+                    <article class="customer col-md-3 col-sm-6 col-xs-12">
+                        <figure class="image-index">
+                            <img src="~/img/nav/customer.png" class="background" />
+                            <a href="/Clientes" class="customer"><img src="~/img/nav/customer-center.svg" class="over"></a>
+                            <img src="~/img/nav/customer-arrow.svg" class="arrow">
+                            <figcaption>
+                                <h2>Clientes</h2>
+                                <p>Controle de Clientes.</p>
+                            </figcaption>
+                        </figure>
+                    </article>
+                    <article class="provider col-md-3 col-sm-6 col-xs-12">
+                        <figure class="image-index">
+                            <img src="~/img/nav/provider.png" class="background" />
+                            <a href="/Colaborador" class="provider"><img src="~/img/nav/provider-center.svg" class="over"></a>
+                            <img src="~/img/nav/provider-arrow.svg" class="arrow">
+                            <figcaption>
+                                <h2>Colaboradores</h2>
+                                <p>Controle de Colaboradores.</p>
+                            </figcaption>
+                        </figure>
+                    </article>
+                    <article class="sales col-md-3 col-sm-6 col-xs-12">
+                        <figure class="image-index">
+                            <img src="~/img/nav/sales.png" class="background" />
+                            <a href="/Venda" class="sales"><img src="~/img/nav/sales-center.svg" class="over"></a>
+                            <img src="~/img/nav/sales-arrow.svg" class="arrow">
+                            <figcaption>
+                                <h2>Vendas</h2>
+                                <p>Controle de Vendas.</p>
+                            </figcaption>
+                        </figure>
+                    </article>
+                    <article class="report col-md-3 col-sm-6 col-xs-12">
+                        <figure class="image-index">
+                            <img src="~/img/nav/report.png" class="background" />
+                            <a href="/Venda/Report" class="report"><img src="~/img/nav/report-center.svg" class="over"></a>
+                            <img src="~/img/nav/report-arrow.svg" class="arrow">
+                            <figcaption>
+                                <h2>Relatório</h2>
+                                <p>Vendas Exibidas por Colaborador.</p>
+                            </figcaption>
+                        </figure>
+                    </article>
+                </div>
+            </div>             
+        </nav><!-- nav.nav-buttons -->
+        <section class="panels">
+            <div class="container" >
+                <div class="row">
+                    <div id="panel" class="panel @ViewBag.PanelType">
+                        <div class="panel-heading">
+                            <h3 class="panel-title">@ViewBag.PanelTitle</h3>
+                        </div>
+                        <div id="PanelBody" class="panel-body">
+                            @RenderBody()
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section><!-- section.panels -->
+        <footer id="footer">
+            <p>Copyright &copy; 2017 - by Ian Corrêa</p>
+        </footer>
+    </div><!-- #interface -->
+
+    <script src="~/Scripts/index.min.js"></script>
+
+    @@include('../interface-Templates/_Layout-Scripts.html')    
+</body>
+
+</html>

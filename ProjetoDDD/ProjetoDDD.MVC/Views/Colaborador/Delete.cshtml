@@ -1,0 +1,56 @@
+﻿@model ProjetoDDD.MVC.ViewModels.ColaboradorViewModel
+
+@{
+    ViewBag.Title = "Sistema de Vendas - Deleção do Colaborador";
+    Layout = null;
+}
+
+<h2>Deletar Colaborador</h2>
+
+<h3 class="delete">Tem certeza que deseja deletar esse colaborador?</h3>
+<div>    
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Apelido)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Apelido)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Sexo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Sexo)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="buttons-modal">
+            <a href="#myModal" data-dismiss="modal"><img src="~/img/button/back.svg" class="icon" /></a>
+            <input id="btnSubmit" type="image" src="~/img/button/delete-confirm.svg" class="icon" />
+        </div>
+    }
+</div>
